@@ -30,7 +30,7 @@ følge reglerne!
 
 Her er administratorernes GitHub og Discord:
 
-* [ViktorPopp] ([@zer0developer])
+* [viktorpopp] ([@viktorpopp])
 
 [ViktorPopp]: https://github.com/ViktorPopp
 [@zer0developer]: https://discord.com/users/1236265571591520271
