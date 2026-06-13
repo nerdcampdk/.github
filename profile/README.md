@@ -33,4 +33,4 @@ Her er administratorernes GitHub og Discord:
 * [viktorpopp] ([@viktorpopp])
 
 [ViktorPopp]: https://github.com/ViktorPopp
-[@zer0developer]: https://discord.com/users/1236265571591520271
+[@viktorpopp]: https://discord.com/users/1236265571591520271
